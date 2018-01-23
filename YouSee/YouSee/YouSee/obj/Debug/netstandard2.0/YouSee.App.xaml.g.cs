@@ -11,7 +11,12 @@
 namespace YouSee {
     
     
+<<<<<<< HEAD
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Jerm\\Desktop\\YouSee\\YouSee\\YouSee\\YouSee\\App.xaml")]
+=======
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Pro" +
+        "ject\\YouSee\\YouSee\\YouSee\\YouSee\\App.xaml")]
+>>>>>>> origin/master
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

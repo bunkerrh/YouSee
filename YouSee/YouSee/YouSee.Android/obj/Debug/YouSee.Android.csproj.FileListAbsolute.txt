@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee.Android\obj\Debug\YouSee.Android.csprojResolveAssemblyReference.cache
+=======
+C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee.Android\obj\Debug\YouSee.Android.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master

@@ -11,7 +11,11 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+<<<<<<< HEAD
       "NETStandard.Library/2.0.1": {
+=======
+      "NETStandard.Library/2.0.0": {
+>>>>>>> origin/master
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -59,6 +63,7 @@
         "runtime.json"
       ]
     },
+<<<<<<< HEAD
     "NETStandard.Library/2.0.1": {
       "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
@@ -67,6 +72,14 @@
         "LICENSE.TXT",
         "NETStandard.Library.2.0.1.nupkg.sha512",
         "NETStandard.Library.nuspec",
+=======
+    "NETStandard.Library/2.0.0": {
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "type": "package",
+      "path": "netstandard.library/2.0.0",
+      "files": [
+        "LICENSE.TXT",
+>>>>>>> origin/master
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -184,7 +197,13 @@
         "build/netstandard2.0/ref/mscorlib.dll",
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
+<<<<<<< HEAD
         "lib/netstandard1.0/_._"
+=======
+        "lib/netstandard1.0/_._",
+        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.nuspec"
+>>>>>>> origin/master
       ]
     },
     "Xamarin.Forms/2.5.0.122203": {
@@ -215,6 +234,7 @@
         "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
         "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll",
+<<<<<<< HEAD
         "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
@@ -227,6 +247,16 @@
         "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll.mdb",
+=======
+        "lib/MonoAndroid10/FormsViewGroup.pdb",
+        "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
+>>>>>>> origin/master
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.xml",
         "lib/WP80/Design/Xamarin.Forms.Core.Design.dll",
@@ -376,12 +406,20 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+<<<<<<< HEAD
       "NETStandard.Library >= 2.0.1",
+=======
+      "NETStandard.Library >= 2.0.0",
+>>>>>>> origin/master
       "Xamarin.Forms >= 2.5.0.122203"
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Jerm\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\bradl\\.nuget\\packages\\": {},
+>>>>>>> origin/master
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -391,18 +429,30 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Jerm\\Desktop\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
       "projectName": "YouSee",
       "projectPath": "C:\\Users\\Jerm\\Desktop\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
       "packagesPath": "C:\\Users\\Jerm\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jerm\\Desktop\\YouSee\\YouSee\\YouSee\\YouSee\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
+      "projectName": "YouSee",
+      "projectPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
+      "packagesPath": "C:\\Users\\bradl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\obj\\",
+>>>>>>> origin/master
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Jerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\bradl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/master
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -430,7 +480,11 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
+<<<<<<< HEAD
             "version": "[2.0.1, )",
+=======
+            "version": "[2.0.0, )",
+>>>>>>> origin/master
             "autoReferenced": true
           },
           "Xamarin.Forms": {

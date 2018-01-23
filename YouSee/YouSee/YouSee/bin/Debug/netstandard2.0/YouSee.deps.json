@@ -1,7 +1,11 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
+<<<<<<< HEAD
     "signature": "b27794e5b5b5f10aba0a2076d6ffd15280883abb"
+=======
+    "signature": "c17ecb8dea3341b12134d47ef94cc13acb69df75"
+>>>>>>> origin/master
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +13,11 @@
     ".NETStandard,Version=v2.0/": {
       "YouSee/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "NETStandard.Library": "2.0.1",
+=======
+          "NETStandard.Library": "2.0.0",
+>>>>>>> origin/master
           "Xamarin.Forms": "2.5.0.122203"
         },
         "runtime": {
@@ -17,7 +25,11 @@
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
+<<<<<<< HEAD
       "NETStandard.Library/2.0.1": {
+=======
+      "NETStandard.Library/2.0.0": {
+>>>>>>> origin/master
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -44,12 +56,21 @@
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "NETStandard.Library/2.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "path": "netstandard.library/2.0.1",
       "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+=======
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+>>>>>>> origin/master
     },
     "Xamarin.Forms/2.5.0.122203": {
       "type": "package",
