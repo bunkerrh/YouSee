@@ -1,0 +1,11 @@
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.deps.json
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.dll
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.pdb
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.csprojResolveAssemblyReference.cache
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.csproj.CoreCompileInputs.cache
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.App.xaml.g.cs
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.MainPage.xaml.g.cs
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.AssemblyInfoInputs.cache
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.AssemblyInfo.cs
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.dll
+C:\Users\Jerm\Desktop\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.pdb
