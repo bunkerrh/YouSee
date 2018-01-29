@@ -1,7 +1,6 @@
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.deps.json
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.dll
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\bin\Debug\netstandard2.0\YouSee.pdb
-C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.csprojResolveAssemblyReference.cache
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.csproj.CoreCompileInputs.cache
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.App.xaml.g.cs
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.MainPage.xaml.g.cs
@@ -9,3 +8,4 @@ C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Pr
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.AssemblyInfo.cs
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.dll
 C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.pdb
+C:\Users\bradl\OneDrive - University of Cincinnati\school\Year2_Spring\Senior_Project\YouSee\YouSee\YouSee\YouSee\obj\Debug\netstandard2.0\YouSee.csprojResolveAssemblyReference.cache

@@ -14,6 +14,7 @@ namespace YouSee
 			InitializeComponent();
 
 			MainPage = new YouSee.MainPage();
+            //help me 
 		}
 
 		protected override void OnStart ()
