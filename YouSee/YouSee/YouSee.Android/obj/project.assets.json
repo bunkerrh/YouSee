@@ -703,24 +703,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bradl\\.nuget\\packages\\": {},
+    "C:\\Users\\jaker\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee.Android\\YouSee.Android.csproj",
+      "projectUniqueName": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee.Android\\YouSee.Android.csproj",
       "projectName": "YouSee.Android",
-      "projectPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee.Android\\YouSee.Android.csproj",
-      "packagesPath": "C:\\Users\\bradl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee.Android\\obj\\",
+      "projectPath": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee.Android\\YouSee.Android.csproj",
+      "packagesPath": "C:\\Users\\jaker\\.nuget\\packages\\",
+      "outputPath": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bradl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -734,8 +734,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj": {
-              "projectPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj"
+            "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj": {
+              "projectPath": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj"
             }
           }
         }

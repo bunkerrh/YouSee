@@ -11,7 +11,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -59,12 +59,14 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
+        "NETStandard.Library.2.0.1.nupkg.sha512",
+        "NETStandard.Library.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -182,9 +184,7 @@
         "build/netstandard2.0/ref/mscorlib.dll",
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
-        "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
-        "netstandard.library.nuspec"
+        "lib/netstandard1.0/_._"
       ]
     },
     "Xamarin.Forms/2.5.0.122203": {
@@ -372,12 +372,12 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0",
+      "NETStandard.Library >= 2.0.1",
       "Xamarin.Forms >= 2.5.0.122203"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bradl\\.nuget\\packages\\": {},
+    "C:\\Users\\jaker\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -387,18 +387,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
+      "projectUniqueName": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
       "projectName": "YouSee",
-      "projectPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
-      "packagesPath": "C:\\Users\\bradl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bradl\\OneDrive - University of Cincinnati\\school\\Year2_Spring\\Senior_Project\\YouSee\\YouSee\\YouSee\\YouSee\\obj\\",
+      "projectPath": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee\\YouSee.csproj",
+      "packagesPath": "C:\\Users\\jaker\\.nuget\\packages\\",
+      "outputPath": "D:\\Classes\\CapStone\\YouSee\\YouSee\\YouSee\\YouSee\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bradl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -426,7 +426,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
